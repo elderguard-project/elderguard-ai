@@ -4,6 +4,8 @@
 
 ---
 
+Figma Design link : https://www.figma.com/design/Bv4UTgFxNKR5ofesOly4A3/Untitled?node-id=2-2&t=u2k7n9KeUOCujngR-0
+
 ## 📌 1. Project Overview
 **ElderGuard AI** is a smart IoT healthcare monitoring and emergency assistance system designed for elderly people living independently.
 
